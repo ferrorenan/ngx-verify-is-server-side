@@ -1,6 +1,10 @@
 {
   "name": "ngx-verify-is-server-side",
   "version": "0.0.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferrorenan/ngx-verify-is-server-side"
+  },
   "peerDependencies": {
     "@angular/common": "^13.0.0",
     "@angular/core": "^13.0.0"
